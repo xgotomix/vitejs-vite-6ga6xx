@@ -13,6 +13,7 @@ function App() {
         <p>Hello Vite 22233+ React!</p>
         <Sanyi name="sanyi" />
         <Sanyi name="feri" />
+        <Sanyi name="feri" />
         <p>
           <button type="button" onClick={() => setCount((count) => count + 1)}>
             count is: {count}
